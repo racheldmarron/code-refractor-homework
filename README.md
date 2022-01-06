@@ -1,5 +1,8 @@
 # HTML, CSS and Git: Code Refractor Homework 
 
+## Link to deployed project: 
+<a href="https://racheldmarron.github.io/code-refractor-homework/">https://racheldmarron.github.io/code-refractor-homework/</a>
+
 ## Summary of My Task & User Story 
 <ul>
 <li>This assigment had a user story of updating alt text of a marketing agency's website in order to optimize the website for SEO.</li>
